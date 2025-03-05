@@ -1,0 +1,2 @@
+# Dairy-DigiD-Artificial-Intelligence-Powered-Facial-Recognition
+AI system uses facial recognition to identify dairy cattle without invasive methods. By analyzing data of dairy cattle from Atlantic Canada, Dairy DigiD achieves 97% classification accuracy and 93% detection accuracy. Frameworks such as Detectron2 and DenseNet121, system categorizes cattle into four groups—young, mature milking, pregnant, and old.
