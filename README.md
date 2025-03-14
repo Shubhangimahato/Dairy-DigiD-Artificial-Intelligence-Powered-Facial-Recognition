@@ -1,7 +1,6 @@
 # Dairy-DigiD-Artificial-Intelligence-Powered-Facial-Recognition
 AI system uses facial recognition to identify dairy cattle without invasive methods. By analyzing data of dairy cattle from Atlantic Canada. Frameworks such as Detectron2 and DenseNet121, system categorizes cattle into four groups—young, mature milking, pregnant, and old.
 
-Dataset
 # Dataset Information
 
 ## 1. Nova Scotia
@@ -19,3 +18,11 @@ Dataset
 
 ## 3. Data Augmented
 [Download Dataset](https://drive.google.com/drive/folders/1gd-_bad-BxDSjtyUpbWjbbuNmE0F5eLq?usp=sharing)
+
+# Trained Models
+
+## 1. Nova Scotia (Annotated Dataset)
+[Download Model](https://drive.google.com/file/d/1XVTw76Xvss83lkM_azGp0QGMvbucuLo6/view?usp=sharing)
+
+## 2. New Brunswick
+[Download Model](https://drive.google.com/file/d/1-7sSW1wpQewZz7MayQkO4RinqSTZOqEo/view?usp=sharing)
